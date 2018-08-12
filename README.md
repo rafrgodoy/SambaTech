@@ -8,6 +8,7 @@ Foram definidas 4 labels para classificação dos bugs quanto à sua prioridade 
 * Major
 * Minor
 * Trivial
+
 Obs.: No caso das melhorias foi utilizado a label "enhancement" do próprio GitHub.
 
 ## Execução de testes manuais para identificação de bugs e melhorias
