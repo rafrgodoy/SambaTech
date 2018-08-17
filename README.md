@@ -24,5 +24,5 @@ Os cenários foram criados para reprodução dos bugs identificados e registrado
 <b>Obs 2.: Apenas o browser Google Chrome foi utilizado nos testes. Inclusive um ponto interessante é a realização de testes em outros navegadores e sistemas (ex.: Android, IOS). Trata-se de um conjunto de testes não funcionais importantes.
 
 ## Criação do documento PDF
-Foi criado um documento no formato PDF com a sugestão de outros testes funcionais e não funcionais que poderiam ser executados e automatizados. O arquivo foi denominado "Relatório de Testes" e está incluído na raiz deste repositório.
+Foi criado um documento no formato PDF com a sugestão de outros testes funcionais e não funcionais que poderiam ser executados e automatizados. Tal documento possui também uma conclusão à respeito do processo. O arquivo foi denominado "Relatório de Testes" e está incluído na raiz deste repositório.
 
