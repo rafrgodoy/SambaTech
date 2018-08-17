@@ -15,6 +15,7 @@ Obs.: No caso das melhorias foi utilizado a label "enhancement" do próprio GitH
 Foi definido o template do próprio GitHub para registrar bugs (traduzido). O template contém: Título e descrição do bug, passo a passo para execução do teste, comportamento esperado, screenshots, informações sobre o hardware e SO que rodaram os testes e informações adicionais (caso necessário). Para as melhorias foram utilizados 4 campos: Título e descrição, sugestão, alternativa e informações adicionais (caso necessário).
 
 ## Codificação dos testes automatizados
+O código e demais arquivos necessários estão presentes no diretório "TesteAuto".
 Para realização dos testes automatizados foi utilizado o IDE IntelliJ com a importação das bibliotecas do Selenium Webdriver. Todas as configurações necessárias foram realizadas e foi criado o projeto "TesteAuto". Utilizando o padrão de codificação "PageObject" foi criada um classe referente à página de login, com os principais métodos para acesso à home page da aplicação. Além dessa classe, foi criada uma classe para execução dos testes.
 Os cenários foram criados para reprodução dos bugs identificados e registrados no GitHub. No entanto, foram realizadas apenas as automações de login do sistema (negativos e positivos) e o teste referente ao bug da página "Conheça o Samba Vídeos" (ID 1).
 
